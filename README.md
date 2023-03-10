@@ -1,2 +1,1 @@
-My first readme
-READ update from github.com
+i am a software engineer student at alx
